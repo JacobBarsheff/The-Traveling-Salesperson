@@ -14,7 +14,7 @@ namespace Demo_TheTravelingSalesperson
         private bool _usingApplication;
         private ConsoleView _consoleView;
         private Salesperson _salesperson;
-        //test
+        //
         #endregion
 
         #region PROPERTIES
